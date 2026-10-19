@@ -1,7 +1,7 @@
 id = "slfn.archify-map"
 name = "Archify Map"
 version = "0.1.0"
-description = "Herdr terminal plugin derived from archify DESIGN.md architecture-map (verified-source). M6 adapter directive-derived; not fabricated."
+description = "Herdr terminal plugin derived from archify architecture map (verified-source build)."
 min_herdr_version = "0.7.0"
 platforms = ["linux", "macos"]
 
