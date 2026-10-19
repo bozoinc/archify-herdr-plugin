@@ -1,10 +1,9 @@
-// Archify → herdr entry (verified-source build; derived from archify architecture map)
-// Source: archify DESIGN.md architecture map (verified)
+// Archify → herdr entry (verified-source: archify DESIGN.md architecture map)
 
 module.exports = {
   name: "archify-map",
   version: "0.1.0",
-  init: function (pane) {
+  init(pane) {
     pane.setTitle("archify-map");
     pane.write("Archify architecture-map plugin (verified-source build).\n");
     pane.write("Published to herdr marketplace.\n");
